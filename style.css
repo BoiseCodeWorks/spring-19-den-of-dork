@@ -1,0 +1,18 @@
+.main-article {
+background-image: url(http://lorempixel.com/400/200/sports/);
+    background-size: cover;
+    min-height: 400px;
+}
+
+.extra-article {
+    background-image: url(http://lorempixel.com/400/200/cats/);
+    background-size: cover;
+    min-height: 196px;
+    color: white;
+    text-shadow: 1px 1px black;
+}
+
+.card-body p {
+      border-top: 1px solid red;
+    display: inline;
+}
